@@ -1,6 +1,6 @@
 ## 🌎 *Welcome to my "Hello World"* 🌎
 
-<center><img src=https://media1.giphy.com/media/CXaDzPow0SJqM/200w.gif?cid=6c09b952kz2ta1ilkra1sa0ensxr2qe2cgg1yetnlfgus3hm&ep=v1_gifs_search&rid=200w.gif&ct=g alt="Snorlax's Gif" border="4px solid white"></center>
+<p align="center" border="4px solid white"><img src=https://media1.giphy.com/media/CXaDzPow0SJqM/200w.gif?cid=6c09b952kz2ta1ilkra1sa0ensxr2qe2cgg1yetnlfgus3hm&ep=v1_gifs_search&rid=200w.gif&ct=g alt="Snorlax's Gif" border="4px solid white"></p>
 
 --------------------------
 - 🌊 Olá, meu nome é Bryan dos Santos Souza Carvalho <br>
