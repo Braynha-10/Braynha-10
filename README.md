@@ -39,9 +39,17 @@
 <br>
 
 -----------------------------
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Braynha-10&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Braynha-10&hide_progress=true)
+-----------------------------
 
 
 ### Contact:
-<a href="www.linkedin.com/in/bryan-dossantos"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width= "50px"/></a>
-<a href="bryansscarvalho16@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width= "50px"/></a>
+<a href="https://www.youtube.com/@bryancarvalho8589" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href = "mailto:bryansscarvalho16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/bryan-dossantos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+-----------------------------
+![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
+
           
